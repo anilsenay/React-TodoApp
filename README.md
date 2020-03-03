@@ -1,1 +1,1 @@
-An easy todo app with React.
+## An easy todo app with React.
